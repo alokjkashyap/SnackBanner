@@ -1,0 +1,3 @@
+rootProject.name='SnackBanner'
+include ':app'
+include ':snackbanner'

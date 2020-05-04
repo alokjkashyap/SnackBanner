@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/snackbar_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:maxLines="1"
+        android:padding="5dp"
+        android:layout_gravity="center"
+        android:text="Text appears here"
+        android:textSize="10sp"
+        android:textAppearance="@style/Widget.MaterialComponents.Snackbar.TextView"
+        android:ellipsize="end"/>
+
+</merge>
