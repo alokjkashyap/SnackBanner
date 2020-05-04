@@ -47,6 +47,9 @@ Add it in your root build.gradle at the end of repositories:
   
  Add the dependencies
  
+ Latest Version   
+ [![](https://jitpack.io/v/alokjkashyap/SnackBanner.svg)](https://jitpack.io/#alokjkashyap/SnackBanner)
+ 
      dependencies {
 	        implementation 'com.github.alokjkashyap:SnackBanner:<version>'
             implementation 'com.google.android.material:material:1.1.0'
